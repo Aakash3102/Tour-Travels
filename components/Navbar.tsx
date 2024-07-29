@@ -68,6 +68,7 @@ const Navbar = () => {
               icon="/user.svg"
               variant="btn_dark_green"
               onClick={toggleMenu}
+              
             />
           </ul>
         </div>
